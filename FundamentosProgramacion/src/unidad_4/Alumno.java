@@ -22,7 +22,7 @@ public class Alumno {
 	}public String getNombreCompleto() {
 		return nombreCompleto;
 	}public void setNombreCompleto(String nombreCompleto) {
-		this.numControl = nombreCompleto;
+		this.nombreCompleto = nombreCompleto;
 	}public int getCalificacion() {
 		return calificacion;
 	}public void setCalificacion(int calificacion) {

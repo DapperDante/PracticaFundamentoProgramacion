@@ -1,5 +1,10 @@
 package unidad_5;
 import java.util.Scanner;
+/*
+ * Dante Adonai Perez Alvarado
+ * Horario: 16.17pm
+ * Programa: 3-Unidad 5. Hallar el numero mayor de los 3 numeros
+ * */
 public class NumMayores {
 
 	public static void main(String[] args) {

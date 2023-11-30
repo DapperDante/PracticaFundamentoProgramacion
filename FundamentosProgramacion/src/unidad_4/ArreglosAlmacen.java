@@ -2,7 +2,7 @@ package unidad_4;
 /*
  * Dante Adonai Perez Alvarado
  * Horario: 16-17pm 
- * Programa: Almacenar 25 numeros en un arreglo.
+ * Programa: 19-Unidad 4. Almacenar 25 numeros en un arreglo.
  * */
 public class ArreglosAlmacen {
 
