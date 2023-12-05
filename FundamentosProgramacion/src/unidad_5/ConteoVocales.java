@@ -9,8 +9,9 @@ public class ConteoVocales {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Ingrese un texto: ");
 		String input = sc.nextLine();
-		System.out.println("Numero de vocales: ");
+		System.out.println("Numero de vocales: "+conteoVocales(input));
 	}
 	public static int conteoVocales(String text) {
 		int conteo = 0;
