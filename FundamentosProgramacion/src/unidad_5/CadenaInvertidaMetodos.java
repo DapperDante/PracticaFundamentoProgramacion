@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Dante Adonai Perez Alvarado
  * Horario: 16-17pm 
- * Programa: 
+ * Programa: 11-Unida 5. Cadena invertida con parametros
  * */
 public class CadenaInvertidaMetodos {
 
